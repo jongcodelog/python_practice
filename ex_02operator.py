@@ -85,4 +85,4 @@ b = int(input("정수입력 :"))
 print(f"a: {a}" if a>b else f"b: {b}")
 
 a = int(input("정수 입력 :"))
-print(f"{a}는 짝수입니다" if a%2==0 else f"{a}는 홀수입니다.")
+print(f"{a}은 짝수입니다" if a%2==0 else f"{a}은 홀수입니다.")
