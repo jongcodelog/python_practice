@@ -25,3 +25,8 @@ print(dict1)
 # 모든 정보 삭제
 dict1.clear()
 print(dict1)
+
+# 딕셔너리 관련 함수
+# keys() : 키값들 확인 함수
+# values() : 벨류값들 확인 함수
+# items() : 키와 벨류 확인 함수
